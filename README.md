@@ -1,5 +1,5 @@
 # ULBRA_POO_AP2_exercicios
-Resolução de exercícios da disciplina de POO, na ULBRA.
+Resolução de exercícios da disciplina de POO, na ULBRA. Pode ser executada no Reptl [aqui](https://replit.com/@GeovaniLopesLop/ULBRAPOOAP2exercicios) (neessita login e executar um Fork do projeto).
 
 ## Interface
 A classe principal evoca a classe abstrata OptionScreen que apenas simula uma interface tosca de opções via classe Scanner e um bloco switch-case. Alguns métodos foram modularizados na classe GeneralUtilities para evitar redundância de solicitações iterativas de inpúts e alguns testes.
